@@ -154,3 +154,39 @@ Google-Play-Store-Analysis/
     ├── dashboard.png
     ├── category_analysis.png
     └── rating_analysis.png
+
+
+🚀 How to Run
+1. Clone the repository
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Install dependencies
+pip install pandas numpy matplotlib seaborn plotly streamlit
+
+3. Run the dashboard
+streamlit run app.py
+
+💡 Key Learning Outcomes
+Through this project, I practiced:
+- Data cleaning
+- Data preprocessing
+- Missing-value treatment
+- Duplicate handling
+- Data type conversion
+- Feature engineering
+- Exploratory Data Analysis
+- Data visualization
+- Dashboard development
+- Python-based data analytics
+👨‍💻 Author
+Obulesu Polisetti
+B.Tech Computer Science & Engineering — 2026 Graduate
+Skills
+Python | Pandas | NumPy | SQL | Excel | Power BI | Data Analysis | Data Visualization
+⭐ Project Purpose
+This project was created as part of my journey toward becoming a Data Analyst and demonstrates practical experience with Python-based data cleaning, analysis and visualization.
+
+### Suggested GitHub repository name
+
+```text
+google-play-store-data-analysis
